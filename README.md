@@ -1,4 +1,4 @@
-<img src="https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/2ef6ae11-c1c6-4c88-911f-c506dbc53880" width=90>
+<img src="https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/cd5c099d-97e9-4b02-a2b9-2a21c22a9e41" width=90>
 
 # Introducing Emissary
 ![Screenshot1](https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/8f16f46d-fa8c-49c8-b047-96cdd3d911e1)
