@@ -59,7 +59,7 @@ To ensure transparency and accountability, both parties can track all transactio
 
 ### 4️⃣ Multi-signature Emissary's Safe
 
-![screenshots5](https://github.com/Zhixuan0318/Emissary/assets/69501009/09f1ffea-8219-4fdc-a3f0-5cffe9310265)
+![Screenshot5](https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/9c51ead9-980b-4cd6-840e-24814cac8f2d)
 
 Emissary's multi-signature safe serves as a secure solution tailored for milestone-based projects, separate payouts, or lump-sum payments. The key distinction between a transfer request and the multi-sig safe lies in the approval process. With the multi-signature safe, a designated group of controllers must collectively approve the transaction before the transfer can take place.
 
