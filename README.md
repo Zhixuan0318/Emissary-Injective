@@ -39,7 +39,7 @@ Emissary offers support to numerous organizations and projects within the Inject
 
 ### 2️⃣ User Onboarding Experience
 
-![Screenshot2](https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/c55b7a64-ce8a-421f-a71c-32749e073eee)
+![Screenshot2](https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/9b725f90-dd27-44e2-8b69-e254eb2636e8)
 
 Emissary is dedicated to ensuring a seamless and effortless onboarding experience for your clients. To achieve this, Emissary offers two convenient options for clients to access their own accounts and initiate payouts within your token emissary.
 
