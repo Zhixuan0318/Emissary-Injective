@@ -33,7 +33,7 @@ TBA
 
 ### 1️⃣ White-label Token Emissary Builder
 
-![Screenshot3](https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/a41fdf9b-dc87-4e1d-98df-9ffda8c57eb1)
+![Screenshot3](https://github.com/Zhixuan0318/Emissary-Injective/assets/115608573/69627fdd-06f2-459b-abed-4767c06e6142)
 
 Emissary offers support to numerous organizations and projects within the Injective network. Each of these entities possesses its own community and unique brand identity. Therefore, it is crucial to enable users to create and customize their token emissary. Emissary simplifies the entire token emissary creation process, providing features such as general information input, logo media integration, token assets setup, custom emissary URL slug, and more.
 
